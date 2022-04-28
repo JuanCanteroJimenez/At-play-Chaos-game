@@ -1,4 +1,4 @@
-## Caos Game
+## Chaos Game
 
 A bunch of tools that allow the representation and selection of most appealing iterated function system
 based on the fractal dimension and the Lyapunov exponent [1]
